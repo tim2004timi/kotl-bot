@@ -1,0 +1,2 @@
+class UsernameOccupied(Exception):
+    pass
